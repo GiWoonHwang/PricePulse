@@ -8,7 +8,7 @@
 - **Framework**: Spring Boot 3.0.1
 - **Caching**: Redis 7
 - **MessageQueue**: Kafka
-- 
+  
 ## 광고효과 분석
 ![광고효과 분석 아키텍처 다이어그램](images/kafka.png)
 
